@@ -1,0 +1,31 @@
+input[type="text"]:disabled{
+    background-color:white;
+}
+
+h1 {
+    padding-top: 2vh;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 2vh;
+    font-size: 20px;
+}
+
+#my-form {
+    font-size: 16px;
+}
+
+#my-form > input {
+    width: 18vw;
+}
+
+#extra-info {
+    font-size: 16px;
+    margin-left: 3vw;
+}
+
+#extra-info > input {
+    width: 18vw;
+}
